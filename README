@@ -1,0 +1,5 @@
+This project is for sharing the code examples from the DC Groovy meetings.
+
+Put code from each meeting in its own directory: meeting1, meeting2, etc.
+
+Organize files within each meeting however it makes sense. If there is more than one presenter at the same meeting, it probably best to have separate dirs for each presenter. 
